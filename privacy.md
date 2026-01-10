@@ -92,4 +92,36 @@ Hydrino bietet optionale Premium-Abonnements an.
 
 - Zahlungen werden vollständig über den Apple App Store abgewickelt
 - Hydrino erhält keine Zahlungs- oder Kreditkartendaten
-- Der Abonnementstatus kann lokal gespeichert werden,
+- Der Abonnementstatus kann lokal gespeichert werden, um Premium-Funktionen freizuschalten
+
+Es gelten die Datenschutzbestimmungen von Apple.
+
+## 4. Benachrichtigungen
+
+Hydrino kann lokale Erinnerungen senden, um dich ans Wassertrinken zu erinnern.
+
+- Alle Benachrichtigungen werden lokal auf deinem Gerät erstellt
+- Es erfolgt keine Übertragung an externe Server
+
+## 5. Datenweitergabe
+
+Hydrino gibt keine Daten an Dritte weiter.
+
+Es werden keine Analyse-, Tracking- oder Werbedienste verwendet.
+
+## 6. Datenspeicherung
+
+Alle Daten verbleiben auf deinem Gerät, bis du die App löschst oder die Daten manuell zurücksetzt.
+
+## 7. Kinder
+
+Hydrino richtet sich an Nutzer aller Altersgruppen. Es werden wissentlich keine personenbezogenen Daten von Kindern erhoben.
+
+## 8. Änderungen
+
+Diese Datenschutzerklärung kann aktualisiert werden. Änderungen werden auf dieser Seite veröffentlicht.
+
+## 9. Kontakt
+
+E-Mail: privacy@e-toys.ch  
+Website: https://e-toys.ch/hydrino
