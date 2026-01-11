@@ -20,5 +20,4 @@ All user data is stored locally on the device.
 
 ## 📬 Contact
 
-Email: privacy@e-toys.ch  
-Website: https://e-toys.ch/hydrino
+Email: info@e-toys.ch  
