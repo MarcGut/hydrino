@@ -58,8 +58,7 @@ This Privacy Policy may be updated from time to time. Changes will be reflected 
 
 ## 9. Contact
 
-Email: privacy@e-toys.ch  
-Website: https://e-toys.ch/hydrino
+Email: info@e-toys.ch
 
 ---
 
@@ -123,5 +122,4 @@ Diese Datenschutzerklärung kann aktualisiert werden. Änderungen werden auf die
 
 ## 9. Kontakt
 
-E-Mail: privacy@e-toys.ch  
-Website: https://e-toys.ch/hydrino
+E-Mail: info@e-toys.ch
