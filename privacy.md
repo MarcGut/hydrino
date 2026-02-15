@@ -1,6 +1,6 @@
 # Privacy Policy – Hydrino
 
-**Last updated:** January 2026
+**Last updated:** February 2026
 
 Hydrino (“the App”) respects your privacy. This Privacy Policy explains how your data is handled when you use the app.
 
@@ -58,13 +58,13 @@ This Privacy Policy may be updated from time to time. Changes will be reflected 
 
 ## 9. Contact
 
-Email: info@e-toys.ch
+Email: hydrino@e-toys.ch
 
 ---
 
 # Datenschutzerklärung – Hydrino
 
-**Stand:** Januar 2026
+**Stand:** Februar 2026
 
 Hydrino („die App“) respektiert deine Privatsphäre. Diese Datenschutzerklärung erklärt, wie mit deinen Daten umgegangen wird.
 
@@ -122,4 +122,4 @@ Diese Datenschutzerklärung kann aktualisiert werden. Änderungen werden auf die
 
 ## 9. Kontakt
 
-E-Mail: info@e-toys.ch
+E-Mail: hydrino@e-toys.ch
