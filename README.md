@@ -5,10 +5,10 @@ Hydrino is a simple, privacy-friendly water reminder and hydration tracking app.
 ## 🌍 Pages
 
 Main page:
-https://marcgut.github.io/hydrino/
+[https://marcgut.github.io/hydrino/](https://marcgut.github.io/hydrino/)
 
 Privacy Policy:
-https://marcgut.github.io/hydrino/privacy
+[https://marcgut.github.io/hydrino/privacy](https://marcgut.github.io/hydrino/privacy)
 
 ## 🔒 Privacy First
 
