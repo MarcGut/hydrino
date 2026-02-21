@@ -2,9 +2,7 @@
 
 Hydrino is a simple, privacy-friendly water reminder and hydration tracking app.
 
-This repository hosts the public GitHub Pages content required for App Store submission.
-
-## 🌍 GitHub Pages
+## 🌍 Pages
 
 Main page:
 https://marcgut.github.io/hydrino/
